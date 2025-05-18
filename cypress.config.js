@@ -1,7 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: '7afdkj',
+  projectId: 'n57akz',
 
   defaultCommandTimeout: 120000,
   // video: true,
