@@ -1,10 +1,10 @@
 {
-  "TRAIN_NO": "22863",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "19/05/2025",
-  "SOURCE_STATION": "HWH",
+  "TRAIN_NO": "12864",
+  "TRAIN_COACH": "2A",
+  "TRAVEL_DATE": "07/12/2025",
+  "SOURCE_STATION": "SMVB",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "SMVB",
+  "DESTINATION_STATION": "HWH",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
@@ -13,6 +13,13 @@
       "NAME": "Manas Das",
       "AGE": 46,
       "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "Sandhya Das",
+      "AGE": 78,
+      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     }
